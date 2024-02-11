@@ -125,7 +125,7 @@ span{font-weight: bold;}
 /* Styles for Tablet Portrait */
 @media only screen and (min-width: 481px) and (max-width: 1023px) {
   body{
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.8rem;
   }
   .paper {
@@ -143,7 +143,7 @@ span{font-weight: bold;}
     border-radius: 0.6rem;
     margin-bottom: .6rem;
   }
-  h1,h2,h3{margin-bottom: 1rem;}
+  h1,h2,h3{margin-bottom: .8rem;}
   p{padding-bottom: 1rem;}
 
 /* CSS for lists and lists markers */
@@ -219,7 +219,7 @@ span{font-weight: bold;}
   .paper {
     display: flex;
     flex-direction: column;
-    max-width: 35vw;
+    max-width: 45vw;
     gap: 1rem;
     background-color: hsl(0, 0%, 100%);
     padding: 2rem;
