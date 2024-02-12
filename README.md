@@ -18,7 +18,7 @@
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
 
 ## Responsive Design
-El objetivo de este taller es hacer que la página que ya desarrollamos se vea correctamente en los 4 viewports presentados a continuación:
+El objetivo de este taller es hacer que la página que ya desarrollamos se vea correctamente en los 3 viewports presentados a continuación:
 
 | Viewport                | Dimensiones (ancho x alto) |
 | ----------------------- | -------------------------- |
