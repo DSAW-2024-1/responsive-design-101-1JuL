@@ -6,6 +6,15 @@
 
 ## Link de la pagina web publicada: https://dsaw-2024-1.github.io/responsive-design-101-1JuL/
 
+## Mobile Preview
+![Preview del diseño movil](./design/mobile-preview.png)
+
+## Tablet Preview
+![Preview del diseño movil](./design/tablet-preview.png)
+
+## Desktop Preview
+![Preview del diseño movil](./design/desktop-preview2.png)
+
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
 
 ## Responsive Design
